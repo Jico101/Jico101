@@ -36,3 +36,5 @@ Reverser and developer. Half my time goes into taking binaries apart to understa
 ---
 
 Somewhere between a debugger and an editor, either figuring out someone else's logic or building my own.
+
+Always interested in projects involving these languages — open to collaborating, so feel free to reach out. Check out [Collaborate.md](./Collaborate.md) for details.
